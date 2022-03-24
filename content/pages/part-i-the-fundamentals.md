@@ -156,7 +156,7 @@ L02.8 [Bayes' Rule]({{< baseurl >}}/resources/bayes-rule)
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 2 Slides (PDF - 3.3MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L02.pdf)
+[Lecture 2 Slides (PDF - 3.3MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L02.pdf)
 
 [Lecture 2 Slides Annotated (PDF)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L02AS.pdf)
 
@@ -342,7 +342,7 @@ L06.8 [Linearity of Expectations & the Mean of the Binomial]({{< baseurl >}}/res
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 6 Slides (PDF - 1.4MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L06.pdf)
+[Lecture 6 Slides (PDF - 1.4MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L06.pdf)
 
 [Lecture 6 Slides Annotated (PDF - 1.1MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L06AS.pdf)
 
@@ -436,7 +436,7 @@ L08.9 [Calculation of Normal Probabilities]({{< baseurl >}}/resources/calculatio
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 8 Slides (PDF - 3.2MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L08.pdf)
+[Lecture 8 Slides (PDF - 3.2MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L08.pdf)
 
 [Lecture 8 Slides Annotated (PDF - 1.2MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L08AS.pdf)
 
@@ -534,7 +534,7 @@ L10.11 [Inference of the Bias of a Coin]({{< baseurl >}}/resources/inference-of-
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 10 Slides (PDF - 1.5MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L10.pdf)
+[Lecture 10 Slides (PDF - 1.5MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L10.pdf)
 
 [Lecture 10 Slides Annotated (PDF)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L10AS.pdf)
 
@@ -630,7 +630,7 @@ L12.11 [Correlations Matter]({{< baseurl >}}/resources/correlations-matter)
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 12 Slides (PDF - 2.0MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L12.pdf)
+[Lecture 12 Slides (PDF - 2.0MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L12.pdf)
 
 [Lecture 12 Slides Annotated (PDF)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L12AS.pdf)
 

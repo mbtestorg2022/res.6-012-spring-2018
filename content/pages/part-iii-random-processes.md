@@ -113,7 +113,7 @@ L22.10 [An Example]({{< baseurl >}}/resources/an-example)
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 22 Slides (PDF - 4.6MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-iii-random-processes/MITRES_6_012S18_L22.pdf)
+[Lecture 22 Slides (PDF - 4.6MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-iii-random-processes/MITRES_6_012S18_L22.pdf)
 
 [Lecture 22 Slides Annotated (PDF - 1.5MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-iii-random-processes/MITRES_6_012S18_L22AS.pdf)
 
@@ -162,7 +162,7 @@ S23.2 [Poisson Arrivals During an Exponential Interval]({{< baseurl >}}/resource
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 23 Slides (PDF - 3.0MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-iii-random-processes/MITRES_6_012S18_L23.pdf)
+[Lecture 23 Slides (PDF - 3.0MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-iii-random-processes/MITRES_6_012S18_L23.pdf)
 
 [Lecture 23 Slides Annotated (PDF - 1.2MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-iii-random-processes/MITRES_6_012S18_L23AS.pdf)
 
