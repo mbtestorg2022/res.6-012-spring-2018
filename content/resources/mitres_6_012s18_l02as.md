@@ -4,6 +4,7 @@ description: 'This resource contains information regarding introduction to proba
   The fundamentals: Conditioning and Bayes'' rule.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/res-6-012-introduction-to-probability-spring-2018/50482e8cd4e5e382b6691dd5fe8cba05_MITRES_6_012S18_L02AS.pdf
 file_type: application/pdf
+parent_uid: 9ca6b310-dc93-095c-9ac0-f0e5f95e6930
 resourcetype: Document
 title: 'Introduction to Probability: Lecture 2: Conditioning and Bayes'' Rule'
 uid: 50482e8c-d4e5-e382-b669-1dd5fe8cba05

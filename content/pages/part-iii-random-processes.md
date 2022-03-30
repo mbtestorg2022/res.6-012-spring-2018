@@ -8,7 +8,7 @@ The videos in Part III provide an introduction to both classical statistical met
 
 The textbook for this subject is Bertsekas, Dimitri, and John Tsitsiklis. _Introduction to Probability._ 2nd ed. [Athena Scientific](http://www.athenasc.com/), 2008. ISBN: 9781886529236.
 
-The authors have made this [Selected Summary Material (PDF)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf) available for OCW users.
+The authors have made this {{% resource_link "d973b10c-2587-781f-86ca-4f2aff49098f" "Selected Summary Material (PDF)" %}} available for OCW users.
 
 L = Lecture Content
 
@@ -66,9 +66,9 @@ L21.10 [The Poisson Approximation to the Binomial]({{< baseurl >}}/resources/the
 {{< tdopen >}}
 
 
-[Lecture 21 Slides (PDF - 1.7MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-iii-random-processes/MITRES_6_012S18_L21.pdf)
+{{% resource_link "3dfff8bd-e113-4cec-4e57-bf85bb4d3381" "Lecture 21 Slides (PDF - 1.7MB)" %}}
 
-[Lecture 21 Slides Annotated (PDF - 1.3MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-iii-random-processes/MITRES_6_012S18_L21AS.pdf)
+{{% resource_link "64ea7536-2ae2-fa78-c076-6c4f17120006" "Lecture 21 Slides Annotated (PDF - 1.3MB)" %}}
 
 
 {{< tdclose >}}
@@ -113,9 +113,9 @@ L22.10 [An Example]({{< baseurl >}}/resources/an-example)
 {{< tdopen >}}
 
 
-[Lecture 22 Slides (PDF - 4.6MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-iii-random-processes/MITRES_6_012S18_L22.pdf)
+{{% resource_link "d92a00a2-bc9d-20d8-4ad1-1d43be0e7ae0" "Lecture 22 Slides (PDF - 4.6MB)" %}}
 
-[Lecture 22 Slides Annotated (PDF - 1.5MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-iii-random-processes/MITRES_6_012S18_L22AS.pdf)
+{{% resource_link "1f25a393-0276-f573-b7be-8cce5243f885" "Lecture 22 Slides Annotated (PDF - 1.5MB)" %}}
 
 
 {{< tdclose >}}
@@ -162,9 +162,9 @@ S23.2 [Poisson Arrivals During an Exponential Interval]({{< baseurl >}}/resource
 {{< tdopen >}}
 
 
-[Lecture 23 Slides (PDF - 3.0MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-iii-random-processes/MITRES_6_012S18_L23.pdf)
+{{% resource_link "5dc3b904-bffc-f92b-4e5e-c6c67d603414" "Lecture 23 Slides (PDF - 3.0MB)" %}}
 
-[Lecture 23 Slides Annotated (PDF - 1.2MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-iii-random-processes/MITRES_6_012S18_L23AS.pdf)
+{{% resource_link "4d1f5b7c-c32c-8b57-bcd2-d9177e244c2b" "Lecture 23 Slides Annotated (PDF - 1.2MB)" %}}
 
 
 {{< tdclose >}}
@@ -205,9 +205,9 @@ L24.8 [Recurrent and Transient States]({{< baseurl >}}/resources/recurrent-and-t
 {{< tdopen >}}
 
 
-[Lecture 24 Slides (PDF)](/resources/res-6-012-introduction-to-probability-spring-2018/part-iii-random-processes/MITRES_6_012S18_L24.pdf)
+{{% resource_link "48594a4a-ecbb-f32e-3f33-6de0b22097cf" "Lecture 24 Slides (PDF)" %}}
 
-[Lecture 24 Slides Annotated (PDF)](/resources/res-6-012-introduction-to-probability-spring-2018/part-iii-random-processes/MITRES_6_012S18_L24AS.pdf)
+{{% resource_link "b6df3134-854b-e35c-002c-a7ba9991d428" "Lecture 24 Slides Annotated (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -254,9 +254,9 @@ L25.11 [Birth-Death Processes — Part II]({{< baseurl >}}/resources/birth-death
 {{< tdopen >}}
 
 
-[Lecture 25 Slides (PDF)](/resources/res-6-012-introduction-to-probability-spring-2018/part-iii-random-processes/MITRES_6_012S18_L25.pdf)
+{{% resource_link "267b6a12-7027-0e4f-060d-3696a0b19b7a" "Lecture 25 Slides (PDF)" %}}
 
-[Lecture 25 Slides Annotated (PDF - 1.2MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-iii-random-processes/MITRES_6_012S18_L25AS.pdf)
+{{% resource_link "09bd70b5-054b-edc5-3d6a-6bcf006c6697" "Lecture 25 Slides Annotated (PDF - 1.2MB)" %}}
 
 
 {{< tdclose >}}
@@ -299,9 +299,9 @@ L26.9 [Gambler's Ruin]({{< baseurl >}}/resources/gamblers-ruin)
 {{< tdopen >}}
 
 
-[Lecture 26 Slides (PDF - 1.1MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-iii-random-processes/MITRES_6_012S18_L26.pdf)
+{{% resource_link "340a2172-20a9-72b3-0ed8-e479e0fe6bff" "Lecture 26 Slides (PDF - 1.1MB)" %}}
 
-[Lecture 26 Slides Annotated (PDF - 1.2MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-iii-random-processes/MITRES_6_012S18_L26AS.pdf)
+{{% resource_link "d31b5603-7855-3e2f-48e3-d4fbc378aedd" "Lecture 26 Slides Annotated (PDF - 1.2MB)" %}}
 
 
 {{< tdclose >}}

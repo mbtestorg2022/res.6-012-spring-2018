@@ -8,7 +8,7 @@ The videos in Part I introduce the general framework of probability models, mult
 
 The textbook for this subject is Bertsekas, Dimitri, and John Tsitsiklis. _Introduction to Probability._ 2nd ed. [Athena Scientific](http://www.athenasc.com/), 2008. ISBN: 9781886529236.
 
-The authors have made this [Selected Summary Material (PDF)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf) available for OCW users.
+The authors have made this {{% resource_link "d973b10c-2587-781f-86ca-4f2aff49098f" "Selected Summary Material (PDF)" %}} available for OCW users.
 
 L = Lecture Content
 
@@ -66,9 +66,9 @@ L01.10 [Interpretations & Uses of Probabilities]({{< baseurl >}}/resources/inter
 {{< tdopen >}}
 
 
-[Lecture 1 Slides (PDF - 1.5MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L01.pdf)
+{{% resource_link "91864c76-42a5-8e21-6e8b-aa8fcb4a5cb5" "Lecture 1 Slides (PDF - 1.5MB)" %}}
 
-[Lecture 1 Slides Annotated (PDF)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L01AS.pdf)
+{{% resource_link "4da14680-987c-076b-d5aa-2860da2d1afb" "Lecture 1 Slides Annotated (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -115,7 +115,7 @@ S01.10 [Bonferroni's Inequality]({{< baseurl >}}/resources/bonferronis-inequalit
 {{< tdopen >}}
 
 
-[Math Overview Slides (PDF)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_MathOvervw.pdf)
+{{% resource_link "5620e9f8-6ac9-4f9c-87a1-1a523e8ed57f" "Math Overview Slides (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -156,9 +156,9 @@ L02.8 [Bayes' Rule]({{< baseurl >}}/resources/bayes-rule)
 {{< tdopen >}}
 
 
-[Lecture 2 Slides (PDF - 3.3MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L02.pdf)
+{{% resource_link "d7abbd52-c69f-ab01-8703-9ccac8fcddc7" "Lecture 2 Slides (PDF - 3.3MB)" %}}
 
-[Lecture 2 Slides Annotated (PDF)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L02AS.pdf)
+{{% resource_link "50482e8c-d4e5-e382-b669-1dd5fe8cba05" "Lecture 2 Slides Annotated (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -203,9 +203,9 @@ L03.10 [The King's Sibling]({{< baseurl >}}/resources/the-kings-sibling)
 {{< tdopen >}}
 
 
-[Lecture 3 Slides (PDF)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L03.pdf)
+{{% resource_link "09ea15bd-cd65-f913-18c3-8285884983f9" "Lecture 3 Slides (PDF)" %}}
 
-[Lecture 3 Slides Annotated (PDF)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L03AS.pdf)
+{{% resource_link "b252f66a-64df-dfeb-a538-7696f78c1039" "Lecture 3 Slides Annotated (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -248,9 +248,9 @@ L04.9 [Multinomial Probabilities]({{< baseurl >}}/resources/multinomial-probabil
 {{< tdopen >}}
 
 
-[Lecture 4 Slides (PDF - 1.0MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L04.pdf)
+{{% resource_link "d9b5409a-8456-7a00-2ebe-cf3b188dd2c7" "Lecture 4 Slides (PDF - 1.0MB)" %}}
 
-[Lecture 4 Slides Annotated (PDF)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L04AS.pdf)
+{{% resource_link "4bccae7a-432c-3157-3aa6-6e1513e69c2f" "Lecture 4 Slides Annotated (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -299,9 +299,9 @@ S05.1 [Supplement: Functions]({{< baseurl >}}/resources/supplement-functions)
 {{< tdopen >}}
 
 
-[Lecture 5 Slides (PDF - 1.9MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L05.pdf)
+{{% resource_link "b7a4c651-5a08-8e73-c26c-3583c5ca8a5a" "Lecture 5 Slides (PDF - 1.9MB)" %}}
 
-[Lecture 5 Slides Annotated (PDF - 1.1MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L05AS.pdf)
+{{% resource_link "6d117aaf-aee7-e645-6172-645570c90359" "Lecture 5 Slides Annotated (PDF - 1.1MB)" %}}
 
 
 {{< tdclose >}}
@@ -342,9 +342,9 @@ L06.8 [Linearity of Expectations & the Mean of the Binomial]({{< baseurl >}}/res
 {{< tdopen >}}
 
 
-[Lecture 6 Slides (PDF - 1.4MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L06.pdf)
+{{% resource_link "d0e30522-ad95-534a-22dc-c40192964bf5" "Lecture 6 Slides (PDF - 1.4MB)" %}}
 
-[Lecture 6 Slides Annotated (PDF - 1.1MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L06AS.pdf)
+{{% resource_link "fc79badd-1518-9319-b93a-55ac547956f5" "Lecture 6 Slides Annotated (PDF - 1.1MB)" %}}
 
 
 {{< tdclose >}}
@@ -391,9 +391,9 @@ S07.3 [Independence of Random Variables Versus Independence of Events]({{< baseu
 {{< tdopen >}}
 
 
-[Lecture 7 Slides (PDF - 1.1MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L07.pdf)
+{{% resource_link "54f2745a-7a81-0faf-fdf3-845dc63b0934" "Lecture 7 Slides (PDF - 1.1MB)" %}}
 
-[Lecture 7 Slides Annotated (PDF)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L07AS.pdf)
+{{% resource_link "27c4f8d6-7865-a03c-b9a1-215d362362c9" "Lecture 7 Slides Annotated (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -436,9 +436,9 @@ L08.9 [Calculation of Normal Probabilities]({{< baseurl >}}/resources/calculatio
 {{< tdopen >}}
 
 
-[Lecture 8 Slides (PDF - 3.2MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L08.pdf)
+{{% resource_link "71ebbc0a-ba25-b788-08dc-be003c8928f6" "Lecture 8 Slides (PDF - 3.2MB)" %}}
 
-[Lecture 8 Slides Annotated (PDF - 1.2MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L08AS.pdf)
+{{% resource_link "07111f75-b2df-903f-45a7-0b52847c0d39" "Lecture 8 Slides Annotated (PDF - 1.2MB)" %}}
 
 
 {{< tdclose >}}
@@ -485,9 +485,9 @@ S09.1 [Buffon's Needle & Monte Carlo Simulation]({{< baseurl >}}/resources/buffo
 {{< tdopen >}}
 
 
-[Lecture 9 Slides (PDF - 1.7MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L09.pdf)
+{{% resource_link "ab059a5f-4f23-1a88-7f2e-f118fc314cea" "Lecture 9 Slides (PDF - 1.7MB)" %}}
 
-[Lecture 9 Slides Annotated (PDF)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L09AS.pdf)
+{{% resource_link "5980d218-9c90-a96b-ddc1-2b2f22691350" "Lecture 9 Slides Annotated (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -534,9 +534,9 @@ L10.11 [Inference of the Bias of a Coin]({{< baseurl >}}/resources/inference-of-
 {{< tdopen >}}
 
 
-[Lecture 10 Slides (PDF - 1.5MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L10.pdf)
+{{% resource_link "1bad28ad-e47c-5b1c-a9f5-8f7041057d2c" "Lecture 10 Slides (PDF - 1.5MB)" %}}
 
-[Lecture 10 Slides Annotated (PDF)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L10AS.pdf)
+{{% resource_link "946d2279-e52c-1a44-8ecb-0c53c54bcefc" "Lecture 10 Slides Annotated (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -581,9 +581,9 @@ S11.1 [Simulation]({{< baseurl >}}/resources/simulation)
 {{< tdopen >}}
 
 
-[Lecture 11 Slides (PDF)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L11.pdf)
+{{% resource_link "04058596-7322-b5ab-d509-74dd19c359e3" "Lecture 11 Slides (PDF)" %}}
 
-[Lecture 11 Slides Annotated (PDF)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L11AS.pdf)
+{{% resource_link "b55a0e10-f2ee-7379-686e-856a9fc8ee78" "Lecture 11 Slides Annotated (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -630,9 +630,9 @@ L12.11 [Correlations Matter]({{< baseurl >}}/resources/correlations-matter)
 {{< tdopen >}}
 
 
-[Lecture 12 Slides (PDF - 2.0MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L12.pdf)
+{{% resource_link "a3615409-c895-53af-632c-2321d57ce513" "Lecture 12 Slides (PDF - 2.0MB)" %}}
 
-[Lecture 12 Slides Annotated (PDF)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L12AS.pdf)
+{{% resource_link "43688005-bed2-34bd-40bd-999388b1101c" "Lecture 12 Slides Annotated (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -681,9 +681,9 @@ S13.1 [Conditional Expectation Properties]({{< baseurl >}}/resources/conditional
 {{< tdopen >}}
 
 
-[Lecture 13 Slides (PDF - 1.2MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L13.pdf)
+{{% resource_link "550ab785-d778-dc21-8dd7-f50c310b9f97" "Lecture 13 Slides (PDF - 1.2MB)" %}}
 
-[Lecture 13 Slides Annotated (PDF)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_L13AS.pdf)
+{{% resource_link "b343ddec-dd39-3da2-822a-ecd2608eb5f0" "Lecture 13 Slides Annotated (PDF)" %}}
 
 
 {{< tdclose >}}

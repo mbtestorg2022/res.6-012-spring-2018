@@ -8,7 +8,7 @@ The videos in Part II describe the laws of large numbers and introduce the main 
 
 The textbook for this subject is Bertsekas, Dimitri, and John Tsitsiklis. _Introduction to Probability._ 2nd ed. [Athena Scientific](http://www.athenasc.com/), 2008. ISBN: 9781886529236.
 
-The authors have made this [Selected Summary Material (PDF)](/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf) available for OCW users. 
+The authors have made this {{% resource_link "d973b10c-2587-781f-86ca-4f2aff49098f" "Selected Summary Material (PDF)" %}} available for OCW users. 
 
 L = Lecture Content
 
@@ -68,9 +68,9 @@ S14.1 [The Beta Formula]({{< baseurl >}}/resources/the-beta-formula)
 {{< tdopen >}}
 
 
-[Lecture 14 Slides (PDF - 2.2MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-ii-inference-limit-theorems/MITRES_6_012S18_L14.pdf)
+{{% resource_link "5e82c4e2-00b2-18ee-8421-4a26399be2f4" "Lecture 14 Slides (PDF - 2.2MB)" %}}
 
-[Lecture 14 Slides Annotated (PDF - 1.3MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-ii-inference-limit-theorems/MITRES_6_012S18_L14AS.pdf)
+{{% resource_link "7c553fc6-efe7-e82a-70f9-6adab0be9ff5" "Lecture 14 Slides Annotated (PDF - 1.3MB)" %}}
 
 
 {{< tdclose >}}
@@ -111,9 +111,9 @@ L15.8 [Trajectory Estimation Illustration]({{< baseurl >}}/resources/trajectory-
 {{< tdopen >}}
 
 
-[Lecture 15 Slides (PDF - 1.8MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-ii-inference-limit-theorems/MITRES_6_012S18_L15.pdf)
+{{% resource_link "44e3239d-1017-60d3-45ae-17f350c3614c" "Lecture 15 Slides (PDF - 1.8MB)" %}}
 
-[Lecture 15 Slides Annotated (PDF - 1.8MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-ii-inference-limit-theorems/MITRES_6_012S18_L15AS.pdf)
+{{% resource_link "851c9ee1-454e-7a37-0a04-b385923a9ce5" "Lecture 15 Slides Annotated (PDF - 1.8MB)" %}}
 
 
 {{< tdclose >}}
@@ -154,9 +154,9 @@ L16.8 [Properties of the LMS Estimation Error]({{< baseurl >}}/resources/propert
 {{< tdopen >}}
 
 
-[Lecture 16 Slides (PDF - 1.0MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-ii-inference-limit-theorems/MITRES_6_012S18_L16.pdf)
+{{% resource_link "9f8b4427-e4ef-9d8f-37e2-a15a5b4bd57c" "Lecture 16 Slides (PDF - 1.0MB)" %}}
 
-[Lecture 16 Slides Annotated (PDF - 1.2MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-ii-inference-limit-theorems/MITRES_6_012S18_L16AS.pdf)
+{{% resource_link "dcd2a9f7-8b20-e201-f3c8-d1ad8d4a854f" "Lecture 16 Slides Annotated (PDF - 1.2MB)" %}}
 
 
 {{< tdclose >}}
@@ -199,9 +199,9 @@ L17.9 [The Representation of the Data Matters in LLMS]({{< baseurl >}}/resources
 {{< tdopen >}}
 
 
-[Lecture 17 Slides (PDF - 1.0MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-ii-inference-limit-theorems/MITRES_6_012S18_L17.pdf)
+{{% resource_link "9d742a59-18ef-f710-58ba-4251e74f8334" "Lecture 17 Slides (PDF - 1.0MB)" %}}
 
-[Lecture 17 Slides Annotated (PDF - 1.2MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-ii-inference-limit-theorems/MITRES_6_012S18_L17AS.pdf)
+{{% resource_link "2e009499-f8b8-4dc3-cdc1-363dfb299399" "Lecture 17 Slides Annotated (PDF - 1.2MB)" %}}
 
 
 {{< tdclose >}}
@@ -248,9 +248,9 @@ S18.3 [Hoeffding's Inequality]({{< baseurl >}}/resources/hoeffdings-inequality)
 {{< tdopen >}}
 
 
-[Lecture 18 Slides (PDF - 1.3MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-ii-inference-limit-theorems/MITRES_6_012S18_L18.pdf)
+{{% resource_link "d39c57e8-2b51-b495-f67a-a61cbc29d054" "Lecture 18 Slides (PDF - 1.3MB)" %}}
 
-[Lecture 18 Slides Annotated (PDF - 1.9MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-ii-inference-limit-theorems/MITRES_6_012S18_L18AS.pdf)
+{{% resource_link "29cfc374-a1db-8047-5767-957843327110" "Lecture 18 Slides Annotated (PDF - 1.9MB)" %}}
 
 
 {{< tdclose >}}
@@ -289,9 +289,9 @@ L19.7 [Polling Revisited]({{< baseurl >}}/resources/polling-revisited)
 {{< tdopen >}}
 
 
-[Lecture 19 Slides (PDF - 2.1MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-ii-inference-limit-theorems/MITRES_6_012S18_L19.pdf)
+{{% resource_link "0f6325b7-6d57-5e9e-d438-b871203ab4c0" "Lecture 19 Slides (PDF - 2.1MB)" %}}
 
-[Lecture 19 Slides Annotated (PDF - 2.0MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-ii-inference-limit-theorems/MITRES_6_012S18_L19AS.pdf)
+{{% resource_link "e813264f-9fc1-61fe-2146-e0cf552d75c4" "Lecture 19 Slides Annotated (PDF - 2.0MB)" %}}
 
 
 {{< tdclose >}}
@@ -336,9 +336,9 @@ L20.10 [Maximum Likelihood Estimation Examples]({{< baseurl >}}/resources/maximu
 {{< tdopen >}}
 
 
-[Lecture 20 Slides (PDF - 1.3MB)](/resources/res-6-012-introduction-to-probability-spring-2018/part-ii-inference-limit-theorems/MITRES_6_012S18_L20.pdf)
+{{% resource_link "ff8ae3e6-8f7c-8c5f-14f6-8dba4666b4df" "Lecture 20 Slides (PDF - 1.3MB)" %}}
 
-[Lecture 20 Slides Annotated](/resources/res-6-012-introduction-to-probability-spring-2018/part-ii-inference-limit-theorems/MITRES_6_012S18_L20AS.pdf)
+{{% resource_link "e926c7b7-ff18-4dec-8f27-5046f6f14662" "Lecture 20 Slides Annotated" %}}
 
 
 {{< tdclose >}}
